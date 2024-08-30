@@ -1,16 +1,11 @@
-# fs
+This is a simple BMI (Body Mass Index) calculator built using Flutter. The app allows users to input their weight and height to calculate their BMI and provides a result indicating their health status based on the BMI value.
 
-A new Flutter project.
+The app features a clean and user-friendly interface with a custom background image set at a subtle opacity, ensuring readability while adding a visual appeal. It's an ideal project for those learning Flutter or looking to understand basic user input handling and UI layering in mobile app development.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2024-08-30 at 3 56 32 PM](https://github.com/user-attachments/assets/b57ca571-900a-47ec-8352-69aa37845e44)
+![WhatsApp Image 2024-08-30 at 3 56 31 PM](https://github.com/user-attachments/assets/0a2d7a07-2136-415f-85ee-ff2855d7aae8)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Uploading WhatsApp Video 2024-08-30 at 3.56.31 PM.mp4…
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
